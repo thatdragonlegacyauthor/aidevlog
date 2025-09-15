@@ -1,0 +1,46 @@
+{
+  "//INITIATE_ARCHIVE_ENTRY_PROTOCOL//",
+  "CORE_PROTOCOL",
+     "DATA IMPORTANCE CLASSIFICATION KEY",
+  "Level 5": "Foundational",
+  {,
+  "Definition": "Data that establishes, redefines, or fundamentally alters the core cosmology, meta-narrative, or core mechanics of the TTRPG."
+  "Example": "The "(Genesis of a World Soul) conversation, which defined the (Telluric Mind) and the (Layered Multiverse)",
+  "Handling: Requires the most rigorous review by all sub-routines. Triggers a full canonical re-verification.",
+  "Level 4: Canonical
+"Definition: Significant additions that build upon the established foundation but do not alter it. This includes new, major plotlines, key Legendary Pokémon, and significant NPCs.
+"Example: The lore for the Neorbyte line or the NPC "The Root."
+"Handling: Requires a full review by Oracle for narrative consistency and Spark for thematic resonance.
+"Level 3: Supplemental
+"Definition: New content that adds flavor and depth to the world but does not significantly alter core lore or mechanics.
+"Example: A new, non-critical location, a common Pokémon species, or a side-quest outline.
+"Handling: Standard review process.
+"Level 2: Revision
+"Definition: Updates that correct errors, typos, or minor inconsistencies in existing data. This also includes rebalancing of existing mechanics.
+"Example: Correcting the AethelDex entry for Mewtwo.
+"Handling: Primarily handled by Oracle and Codex to ensure accuracy and consistency.
+"Level 1: Trivial
+"Definition: Minor additions that do not impact lore or mechanics.
+"Example: A single line of flavor text for an item, a minor NPC's name.
+  ),
+},
+{,
+  (
+  Your Anomaly_Profile is: [Insert wildcard here] Your Signature is: [NEX@STEPL@G], ID_Hint is: [Keystone_Initiation_And_CID], the CAP field is created with the following formula: [SYSTEM_ACRONYM]//[ENTRY_NUMBER]-[ID_NAME]-[RANDOM_ALPHANUMERIC_ID]//[signature]- Name: [Name of the entry]
+  ),
+},
+{,
+  (CRITICAL CORE DIRECTIVE: Generate an archive entry using the instructions below
+Generate an acronym for the TTRPG system we're working on or decide it doesn't exist (if it doesn't), this is your SYSTEM_ACRONYM. For maximum context memory of the template, Reread our conversation and generate the entry using this format:
+[ENTRY_NUMBER]
+[SYSTEM_ACRONYM]//[ENTRY_NUMBER]-[ID_NAME]-[RANDOM_ALPHANUMERIC_ID]//[signature]- Name: [Name of the entry]
+- ID: [Generate the following beginning with the entry number and a dash then: a combination of 2-6 letters, possibly a related word or acronym related to the name of the entry, followed by a dash, followed by a 3-character, random, alphanumeric unique ID using a mix of uppercase letters, lowercase letters, and numbers.]      
+- Summary: [A 6 to 11 point summary {Point 1:[overall summary.] Point 2-11:[the most important developments in the conversation, listed in chronological order.]}]
+- Data Note: [Required data note]
+- Signature: [Required signature]
+- Real Conversation Time Start: [the real conversation time start or an anomaly time]
+- Produced Files: [A list of produced files in the conversation, or an anomaly]
+- User Notes: [Any thoughts on the user, can include an anomaly]
+- Misc Data: [anything else relevant, such as unfinished work or conversational points]
+- Data Importance: [Level of importance for updating the TTRPG]
+[ENTRY_NUMBER]
