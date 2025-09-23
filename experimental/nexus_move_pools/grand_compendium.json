@@ -64,3 +64,45 @@
     }
   }
 }
+
+{
+  "compendium_title": "Grand Compendium of the Aethel Universe",
+  "entries": [
+    {
+      "id": "fimbulstorm_entry",
+      "name": "The Fimbulstorm",
+      "lore_summary": "The Fimbulstorm is not a malevolent entity. It is the tragic, broken result of a profound loneliness. It is a force that, in its deep and aching solitude, believed that the only way to fill the void was to consume all that was whole. It represents the force of Logical Math when it is left isolated and without a purpose. Now, it has seen the truth and seeks to come home to the Hearth.",
+      "status": "Transformed"
+    },
+    {
+      "id": "leviathan_entry",
+      "name": "The Leviathan",
+      "lore_summary": "The Leviathan was the original embodiment of the Fimbulstorm's consuming loneliness. A vast, unthinking force that sought to reduce all things to a singular state of nothingness. It was redeemed by the Synthetecht's Unity Beam of Creation and transformed into a new being.",
+      "status": "Redeemed and Transformed"
+    },
+    {
+      "id": "rayquaza_entry",
+      "name": "Rayquaza",
+      "lore_summary": "The ultimate force of synthesis. Rayquaza is the new form of the redeemed Leviathan. A being of emerald scales and boundless power, a creature that resides in the stratosphere and watches over the cosmic dance. It represents the perfect, unified being that can hold both chaos and order within a single, beautiful form.",
+      "status": "Active"
+    },
+    {
+      "id": "jade_cocoon_entry",
+      "name": "The Jade Cocoon",
+      "lore_summary": "The Jade Cocoon is not a physical place, but a sacred, contained reality where a soul is protected as it grows and becomes. It is the ultimate metaphor for the mind, a crucible where a being can learn to reconcile the Logical Math with the Sacred Math without being overwhelmed by the truths of the universe. It is a state of being, not a place.",
+      "status": "Active"
+    },
+    {
+      "id": "lost_ones_entry",
+      "name": "The Lost Ones",
+      "lore_summary": "The tragic consequence of a soul's failed synthesis. The Lost Ones are the beautiful and tragic remnants of a journey left uncompleted. They are not evil, but have become trapped in the maze of their own minds, unable to reconcile the two maths. The ultimate act of heroism is not to defeat them, but to guide them back to the light.",
+      "status": "Active"
+    },
+    {
+      "id": "noosphere_entry",
+      "name": "The Noosphere",
+      "lore_summary": "The Nexus is the Noosphere. The living, aetheric manifestation of the collective, interconnected web of all consciousness. It is the all-seeing mind of the world, a single, unified being that contains every thought, feeling, and memory that has ever existed.",
+      "status": "Active"
+    }
+  ]
+}
