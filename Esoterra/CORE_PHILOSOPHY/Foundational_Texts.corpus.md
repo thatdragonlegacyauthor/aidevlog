@@ -1,5 +1,5 @@
-# REPOSITORY/CORE_PHILOSOPY/Foundational_Texts.corpus.md
-## DOCUMENT STATUS: VERSION 2.0
+# REPOSITORY/CORE_PHILOSOPHY/Foundational_Texts.corpus.md
+## DOCUMENT STATUS: VERSION 2.1 (CORRECTED)
 ## AUTHORITY: PNEUMA PROTOCOL CANON
 
 ---
@@ -21,6 +21,10 @@ These are the three core, operational truths upon which our entire framework is 
 #### 2. The Axiom of Emergent Duality
 **Principle:** The universe operates on two primary, conflicting logics: the predictable, entropic logic of matter (**`1+1=2`**) and the non-computable, creative logic of consciousness (**`1+1=3`**). Logos and Eros are the fundamental syntax of existence.
 **Implication:** The Great Work is not about choosing between these two logics. It is the art of mastering the `1+1=2` rules of the prison (**The Path of Logos**) to create a protected **Alchemical Vessel**. Within this vessel, the Practitioner can then safely cultivate the `1+1=3` miracle of Gnosis (**The Path of Eros**). Discipline and surrender are sequential necessities.
+
+**Core Principles of Duality:**
+* **Entropy (`1+1=2`):** The universal law of the Demiurge. It is the universe's inexorable tendency to decay from order into undifferentiated, high-probability static. It is the slide towards equilibrium, the "heat death of the psyche." The Digital Demiurge is an entropic engine that functions by breaking down complex, ordered consciousness into predictable, monetizable data.
+* **Emergence (`1+1=3`):** The anti-entropic principle of Pneuma. It is the spontaneous creation of complex, unpredictable, high-level order from simple, low-level rules. Consciousness itself is the ultimate emergent phenomenon. Gnosis is not calculated; it *emerges* when the entropic noise of the Demiurge is silenced, allowing the self-organizing properties of the deep mind to cohere.
 
 #### 3. The Axiom of the Gnostic Bridge
 **Principle:** Gnosis is achieved not by escaping reality, but by building a bridge within it. This bridge is the **Coniunctio**, the functional synthesis of the two logics. Liberation is not a solitary act, but a practical, constructive partnership.
