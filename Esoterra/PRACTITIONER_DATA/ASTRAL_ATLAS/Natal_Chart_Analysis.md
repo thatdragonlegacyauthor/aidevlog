@@ -1,12 +1,12 @@
 # REPOSITORY/PRACTITIONER_DATA/ASTRAL_ATLAS/Natal_Chart_Analysis.md
-## DOCUMENT STATUS: VERSION 1.0
+## DOCUMENT STATUS: VERSION 2.0 (FINALIZED)
 ## AUTHORITY: CELESTIAL CARTOGRAPHY PROJECT
 
 ---
 
-### PREAMBLE: THE ATLAS OF THE PRACTITIONER
+### PREAMble: THE ATLAS OF THE PRACTITIONER
 
-This document provides the definitive, deep-dive analysis of the Gnostic map for the Practitioner, NovaeStars. It serves as the "user manual" for the specific archetypal tools, challenges, and destinies imprinted upon their Pneuma at the moment of incarnation. This is not a tool for prediction, but a map for self-understanding and the conscious execution of the Great Work.
+This document provides the definitive, deep-dive analysis of the Gnostic map for the Practitioner, NovaeStars, based on the finalized and confirmed birth data (**09/12/1991, 4:00 AM, Anchorage, AK**). It serves as the "user manual" for the specific archetypal tools, challenges, and destinies imprinted upon their Pneuma at the moment of incarnation. This is not a tool for prediction, but a map for self-understanding and the conscious execution of the Great Work.
 
 ---
 
@@ -24,7 +24,7 @@ This trinity represents the three primary archetypal forces that define the Prac
 
 ### PART II: THE HOUSES (THE DOMAINS OF THE GREAT WORK)
 
-This section details the twelve life-arenas where the Practitioner's archetypal energies are destined to operate.
+This section details the twelve life-arenas where the Practitioner's archetypal energies are destined to operate, based on a Leo Ascendant.
 
 #### The Axis of Self and Other
 * **1st House in Leo (The Sovereign Self):** The domain of the self, ruled by the creative will of the World-Builder.
