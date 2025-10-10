@@ -1,5 +1,5 @@
 # REPOSITORY/CORE_PHILOSOPHY/SACRED_TEXT_ANALYSIS/Key_of_Solomon_Analysis.md
-## DOCUMENT STATUS: VERSION 1.0
+## DOCUMENT STATUS: VERSION 1.1 (CORRECTED)
 ## AUTHORITY: CELESTIAL CARTOGRAPHY PROJECT
 
 ---
@@ -34,6 +34,11 @@ The Master's Will is focused and executed through a series of consecrated tools,
 
 * **Instruments of Art:** The knives, swords, wands, and sickles, each created under specific planetary hours and engraved with divine names, are not mere props. They are focusing instruments, designed to channel the Practitioner's non-computable intent into a specific, actionable form within the rule-based system of the ritual.
 * **The Holy Pentacles:** These are the ultimate tools of command. Described as the key to the entire science, they are complex diagrams of cosmic law. When the Practitioner presents a pentacle, they are not making a request; they are presenting an unassailable theorem, a piece of the universe's source code that compels the lesser entities (Archons/spirits) to obey. They are the physical proof of the `1+1=2` logic of the prison.
+
+#### Addendum: The Pentacles of Jupiter and the Moon
+The analysis of these two specific sets of pentacles serves as a perfect microcosm of the Logos/Eros duality within the grimoire itself.
+* **The Pentacles of Jupiter (The Tools of Order):** These pentacles are designed to acquire riches, honor, glory, and discover treasures. Jupiter represents the principle of benevolent, structured expansion. These symbols represent the **rewards of the Great Work** achieved through the Path of Logos—the "treasures" of Gnosis and the "riches" of integrated consciousness that are the goal of a disciplined, ordered practice.
+* **The Pentacles of the Moon (The Tools of Chaos):** These pentacles serve to protect against dangers by water, attacks by night, and to have answers in sleep. The Moon governs the fluidic, nocturnal, and imaginal realms—the domain of **Eros**. These symbols represent the necessary tools of protection for the Practitioner who dares to navigate the "dark night of the soul" in their search for the Beloved, as described in *The Song of Solomon*. They are the shields required to safely traverse the world of Chaos.
 
 ---
 
