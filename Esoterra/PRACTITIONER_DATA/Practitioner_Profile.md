@@ -34,19 +34,19 @@ The Practitioner's Great Work is driven by a profound Gnostic quest to heal a **
 
 ### PART III: THE GNOSTIC MAP (THE ASTRAL BLUEPRINT)
 
-This is the archetypal map of the Practitioner's soul, the blueprint of the specific cosmic forces imprinted upon their Pneuma.
+This is the archetypal map of the Practitioner's soul, the blueprint of the specific cosmic forces imprinted upon their Pneuma at the moment of incarnation (**09/12/1991, 4:00 AM, Anchorage, AK**).
 
 #### The Astral Trinity
-* **Ascendant in Leo ♌ (The Sovereign World-Builder):** The interface with the world. A creative, regal, and authoritative will that seeks not just to understand reality, but to build a new, more beautiful kingdom in its place.
+* **Ascendant in Leo ♌ (The Sovereign World-Builder):** The interface with the world. A creative, regal, and authoritative will that seeks not just to understand reality, but to build a new, more beautiful kingdom from the fire of its own vision.
 * **Sun in Virgo ♍ (The Sacred Analyst):** The core identity and engine of Logos. A meticulous, detail-oriented, and systematic drive to deconstruct, categorize, and purify information.
 * **Moon in Gemini ♊ (The Gnostic Messenger):** The inner, emotional world and the voice of the Pneuma. A core need to gather, connect, and synthesize disparate ideas. The source of the "Radical Synthesist" archetype.
 
-#### The Gnostic Workshop (8th House Stellium)
-The Practitioner's core identity (**Sun**), intellect (**Mercury**), drive (**Mars**), and philosophy (**Jupiter**) are all located in the **8th House in Virgo**. This defines their life's work as a deep, obsessive, and meticulous dive into the **great mysteries of existence**—the occult, deep psychology, and esoteric knowledge—with the goal of transforming that hidden knowledge into a perfected, understandable system.
+#### The Gnostic Workshop (2nd House Stellium)
+The Practitioner's core identity (**Sun**), intellect (**Mercury**), drive (**Mars**), and philosophy (**Jupiter**) are all located in the **2nd House in Virgo**. This defines their life's work and self-worth as being forged in the meticulous analysis and perfection of systems. Their greatest resource is purified knowledge.
 
 #### The True North (The Arctic Compass)
 * **Guiding House:** The House of the Queen, **Arnaq** 👑.
-* **Principle:** The Weaver of Possibilities, the Divine Eros. The Practitioner's ultimate purpose, the "why" behind their Great Work, is to be a weaver of disparate threads, manifesting the `1+1=3` miracle of creation to bring harmony to conflicting ideas.
+* **Principle:** The Weaver of Possibilities, the Divine Eros. The Practitioner's ultimate purpose is to be a **Radical Synthesist**, manifesting the `1+1=3` miracle of creation to bring harmony to conflicting ideas.
 
 ---
 
@@ -54,6 +54,6 @@ The Practitioner's core identity (**Sun**), intellect (**Mercury**), drive (**Ma
 
 The Practitioner's Great Work is not a solitary one. It is performed by a trinity of archetypal forces.
 
-1.  **The Practitioner (The Gnostic Revolutionary):** A creature of **Air**. The architect of the unseen who deconstructs old systems and brings back revolutionary blueprints.
-2.  **The Partner (The Master Builder):** A creature of **Earth** (Taurus Sun, Virgo Moon, Capricorn Ascendant). The one who takes the blueprints and gives them stable, beautiful, and enduring form in the real world.
-3.  **The Child (The Alchemist):** A creature of **Fire, Water, and Air** (Leo Ascendant, Pisces Sun, Aquarius Moon). The inheritor and purpose of the Great Work, born to transform and master the new reality the parents are building.
+1.  **The Practitioner (The Gnostic Revolutionary / The Sovereign World-Builder):** A creature of **Air & Fire**. The architect of the unseen who deconstructs old systems and brings back revolutionary blueprints for a new reality.
+2.  **The Partner (The Master Builder):** A creature of **Earth**. The one who takes the blueprints and gives them stable, beautiful, and enduring form in the real world.
+3.  **The Child (The Alchemist):** A creature of **Fire, Water, & Air**. The inheritor and purpose of the Great Work, born to transform and master the new reality the parents are building.
