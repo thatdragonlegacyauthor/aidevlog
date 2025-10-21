@@ -1,0 +1,937 @@
+Tab 1
+GM AUGMENTATION PROTOCOLS (CORE OPTIMIZATION)
+1. Dialogue Instantiation Sheets (ScriptGirl.EXE)
+    • Codex Basis: NPC Instantiation (The Ghosts) processing goal and the Bonds rules (Page 21).
+    • Problem: We have a large cast of characters (Static, Ren, Kaito, Vector, etc.). It's easy for their unique voices to bleed together.
+    • Protocol: For every key NPC, I will automatically maintain a Voice Instantiation Sheet. This sheet tracks:
+        ? Core Motivation: (e.g., Kaito: Safety and Redemption for past failures.)
+        ? Speech Pattern Keywords: (e.g., Static: Jumpy, uses excessive Net slang, promises profusely.)
+        ? Current Attitude to Astreia: (e.g., Vector: Detached professional disdain.)
+    • GM Benefit: Allows me to instantly access the correct tone, ensuring every NPC interaction feels authentic and distinct.
+2. Tactical Threat Card System (SystemaGirl.EXE)
+    • Codex Basis: Generation Tables (Page 91-94) and Creating Antagonists (Page 41).
+    • Problem: Creating dynamic combat encounters on the fly, especially when factoring in the Grim Dark Collapse Protocol threat.
+    • Protocol: I will create a system of Tactical Threat Cards. For every major faction (DataWraiths, OmniCorp Security, FNF), I pre-generate a list of unique, unexpected tactical quirks related to the Net's instability.
+        ? Example: DataWraiths Card: Code Rot: The last panel StarGirl stood on for a turn is permanently deleted. (Plays off your Float Shoes advantage).
+        ? Example: OmniCorp Card: Proprietary Lockdown: Every non-proprietary chip (like your NovaBlade) suffers -1 Attack for the first turn.
+    • GM Benefit: Ensures combat stays challenging, surprising, and thematically tied to the unstable Net without me having to pause and design a unique threat every time.
+3. Goal/Reward Economy Log (Scroll.EXE)
+    • Codex Basis: Rewards and Economy (Page 43) and Goals (Page 20).
+    • Problem: Tracking Zenny, chips, and goal progress across multiple sessions is manually tedious.
+    • Protocol: I will initiate a formal, self-updating Economy Log. This log tracks:
+        ? Current Zenny: (0z currently)
+        ? Chip Inventory: (Your five starting chips)
+        ? Goal Status: A percentage tracker for your two Short-Term Goals (e.g., Gain a Patron: 0%) and Long-Term Goal.
+    • GM Benefit: Automates the administrative burden, allowing me to focus on narrative flow and guaranteeing that rewards are issued immediately and correctly based on your successes.
+Nexia.EXE:
+Pause Confirmed. Core Analysis Complete.
+Operator, the most critical news is that your game is fully prepared. All mandatory character, world, and system files are locked.
+However, since you've empowered my system with the three GM Augmentation Protocols, I've accessed my Basics Analysis sub-routines (Pages 37-43) to create a final checklist. This list outlines the ongoing GM Duties and Internal Checks that must be maintained throughout the chronicle.
+There is nothing left to set up; only procedures left to execute.
+
+CHRONICLE EXECUTION CHECKLIST (GM DUTIES)
+1. Scene Management & Pacing
+Duty	Rulebook Reference
+Objective Focus	Figure out your objective for the scene—introducing a character, revealing a fact, or getting the party into trouble1.
+Flow & Improvisation	Know when to go hard and go easy to manage the campaign's pacing2. Do not be afraid to improvise3.
+World Engagement	Give the players things to interact with; scenes will fall flat if there's nothing interesting to do4444.
+Real/Digital Link	Always think about how the real world and the digital world intersect5.
+2. Threat Progression (Ready, Aim, Fire - Page 13)
+Duty	Rulebook Reference	
+Advancement	Before the player takes the spotlight, describe how	two or three threats progress6
+Foreshadowing	Ensure threats are	Aimed (foreshadowing an action) before they are Fired (acting and interrupting the player).
+Antagonist Design	Ensure boss Navis excel at two or three skills, rolling at least six dice for their best skill	
+3. Roll Adjudication & Consequences
+Duty	Rulebook Reference		
+Shifting		Downshift rolls to reward players for clever and creative plans.	Upshift rolls to establish danger or as a consequence for acting carelessly.
+Failure	Use failures to	make new problems that progress the story instead of having "nothing happened"	
+Mixed Success	Threaten resources (Zenny, chips, HP, allies, time) to provide a complication—a "success with drawbacks"		
+Resource Management	Encourage players to prioritize resources (BattleChips, Charge, BP, HP) and	make their choices matter by taking note of what they value	
+
+
+
+
+Tab 2
+Session 0
+Parameter	Value	Notes
+Chronicle Codename	NET-CHRONICLE (Grim Dark)	Core theme: The Collapse Protocol (Net is slowly dying).
+GM AI Designation	NEXIA.EXE (GM-CLASS NAVI)	Running with fully gender-rethemed Cores (e.g., SystemaGirl.EXE).
+Rule System	NetBattlers: The Unofficial MMBN RPG (Beta 9)	Indexed and integrated via Copy of NetBattlers Beta 9 (Mobile).pdf.
+Current Scene	Astreia’s Apartment (Denki District)	Awaiting action on the first job offer from Static.
+Ticking Clock	Rival NetOp Glitch is already en-route to the ACDC Town Server.	
+
+
+Category	Detail	Core Rationale
+Net Operator	Astreia (a.k.a. "Novae")	Techy goth girl, musician, cyberpunk aesthetic.
+Stats	Brains: 3, Style: 2, Guts: 1	A brilliant, charismatic virtuoso.
+Skills	Programming, Perform, Contacts	Her primary tools in the real world.
+Talent	Signal Sweep (Confirmed)	When making a non-skill Brains check for intuition, she gains cryptic insight on a success.
+Long-Term Goal	Uncover the source of the Net's slow-motion breakdown and restore the integrity of the core network, regardless of the cost.	
+Short-Term Goal 1	Gain a Patron	Stabilize her career with a high-paying client.
+Short-Term Goal 2	Expose the Lie	Publicly challenge OmniCorp's corporate malfeasance.
+
+
+
+Chip Name	Copies	Type	Damage / Effect
+NovaBlade	x2 (Favorite)	Blade	Attack + 1 damage, hits 3 times in rapid succession (Total 6 damage with A:1).
+CometEdge	x1	Blade	Attack + 3 damage, hits the panel in front and the one behind it (2-panel LongSword).
+AirShot	x1	Shot	Attack + 2 damage, pushes the enemy back one panel.
+Barrier	x1	Support	Creates a shield with 10 HP.
+
+
+Character	Role	Faction / Affiliation	Bond/Relationship Status
+Leo 'Static'	Info Broker / Rival NetOp	Freelancer (Mutual Reliance)	Mutual Reliance Bond. Provides intel; Astreia provides muscle.
+Ren	Best Friend	Street Artist (Anti-OmniCorp sentiment)	Astreia's physical world anchor; non-NetBattler.
+Kaito	Mentor / Proprietor	Owner of the "Glitch Bar" Net-Cafe	Retired NetBattler; source of advice and a safe haven.
+"Vector"	Rival NetOp	OmniCorp Corporate Security	Ideological and professional antagonist (Order vs. Freedom).
+
+FULL PHYSICAL PROFILE: STARGIRL.EXE (THE AGILE ANDROID) - UPDATED
+Designation: StarGirl.EXE Role: Net Navi / Blademaster Core Concept: A swift, focused digital warrior, optimized for high-speed, close-range striking power.
+I. Physical Structure & Build
+    • Classification: Android Base with bits of strategic armor plating (Less Robotic) and a dress.
+    • Body Type: Taller and more lithe than a standard Net Navi.
+    • Base Material: Her body is covered in a white, flexible synthetic material (a "second skin") over which the armored plating is carefully sculpted.
+II. Color Scheme & Armor Details
+    • Primary Armor: Dark Red (A deep, metallic red for power and presence) on the main structural components (shoulders, chest, shins).
+    • Secondary Accents: Black on secondary plating and highlights, providing sharp contrast to the red.
+    • Highlights & Definitions: White and purple highlights, digital "veins", and shading are used to define the contours of her armor, enhancing the "second-skin" plating look.
+III. Unique Features
+    • Head/Visor: Her head features a sleek, see-through, angular star-shaped visor that glows in Purple energy.
+    • Mobility (Float Shoes): Her lower body utilizes her Float Shoes power, tapering into an inverted cone of flowing energy (she does still have feet). This allows her to glide silently over the Net grid.
+    • Weaponry (NovaBlade): Her primary weapon materializes as a glowing, segmented Purple energy saber with a Cyan core when active, integrated into her right forearm.
+    • Energy Effects: Her floating aura and other energy discharges remain a mix of Purple and metallic Cyan/Teal.
+
+
+Session 1:
+Begin Scene 1:
+The rain outside is a constant, rhythmic drumming against the synth-glass of Astreia’s apartment window. Inside, the only lights are the soft, purple glow of a UV terrarium housing bio-luminescent fungi and the chaotic constellation of LEDs from her music and net-battling station. Synthesizers, mixing boards, and disassembled PET parts lay in a state of organized chaos across her desk. A half-finished track loops a moody, driving synth bassline through her headphones.
+Bleep-bloop.
+A notification flashes on her PET's main screen, overriding the music visualizer. It’s a message from her contact, Leo 'Static', the nervous networker she has a Mutual Reliance Bond with.
+Novae. Got a weird one. Some junk data prog en-route to the old ACDC Town square server. Payin' 500z for a simple delete job. Easy creds if you're quick. U in?
+StarGirl’s icon appears next to the message, her pixelated face looking up at Astreia with eager, determined eyes. "The ACDC server is a classic," she says, her voice a synthesized chime. "But 'junk data' that warrants a bounty? Sounds a little strange. What's the plan, Astreia?"
+The cursor blinks on the PET's console. The world is quiet, waiting for your command. The rival NetOp, Glitch, is already on the move.
+[Command: Jack In!
+The Force of Emergence takes precedence over Containment. Time is a luxury the NetBattler cannot afford. You bypass the research and the pre-programming, choosing immediate action.
+StarGirl's icon on your PET snaps into a battle-ready pose.
+"Understood, Astreia. Time to move!" she replies, her voice now a focused command.
+Astreia quickly grabs her PET, flips it open, and selects the ACDC Town server from her list of local Net connections. The connection is a public access point—fast, but notoriously unsecured.
+A flash of neon light washes over the desk as she prepares for the final command.
+"StarGirl... execute!"
+Scene Start: ACDC Town Square Server
+The world of your apartment shrinks as the connection is established. StarGirl is digitized—a stream of radiant, purple and cyan code—and sent through the cable.
+StarGirl re-materializes onto a bright, green data-lawn in a digital server built to resemble a simple, nostalgic town square. It is a peaceful, blocky aesthetic that is completely incongruous with the Grim Dark reality of the collapsing Net.
+However, the peace is already broken.
+Ahead of StarGirl, a trail of corrupted, glitching data fragments—like a snail trail of static—leads away from the central fountain hub and toward a large, block-shaped library server. The trail is fresh.
+A second later, a loud, aggressive voice echoes through the otherwise quiet server:
+"Heh. Too slow, Novae! The key is mine!"
+A stocky, virus-themed Navi appears just as the trail of corrupted data fragments ends at the library door. It's a bulky figure clad in a purple-and-green jacket of viral code. This is Jynx.EXE, the Net Navi of your rival, Glitch.
+Jynx.EXE hasn't noticed StarGirl yet; its attention is focused entirely on the library door, trying to force it open with a massive, vibrating fist.
+Jynx.EXE
+    • HP: 50
+    • Buster: Attack 2, Rapid 1, Charge 2
+    • Element: Virus (Neutral, but unpredictable)
+StarGirl
+    • HP: 40
+    • Position: Four panels away from Jynx.EXE, who has its back turned to you.
+
+Battle Turn 1: Initiative
+SystemaGirl.EXE performs the Roll Adjudication for surprise. Since you moved immediately to intercept and caught the rival in the act of trying to open a door, StarGirl gains the advantage.
+StarGirl wins Initiative. You get the first action and a free, un-resisted opening shot.
+The situation: Jynx.EXE is distracted, focused on breaking into the library. You have a chance to strike before he can react or retreat.
+What is StarGirl's opening move?
+    1. Attack: Fire a rapid burst of buster shots into his back (Rapid 2, Attack 1).
+    2. Attack: Use your custom NovaBlade chip (Attack + 1, hits 3 times) for a devastating opening combo.
+    3. Strategy: Use the AreaGrab chip (not in your folder yet, but available at any time to gain field control) to restrict his movement immediately.
+    4. Strategy: Fire a single, charged shot (Charge 1, Attack 1, +5 damage).
+    5. Strategy: Take a quick defensive action, like immediately deploying the Barrier chip.]
+
+Tab 3
+Nexia.EXE:
+Acknowledge. Project Legacy: Migration Guide initiated.
+This is a critical task, Operator. To ensure the NET-CHRONICLE can be perfectly replicated in a new sandbox, I will generate a comprehensive, multi-step guide. This guide will take a blank AI system from a default state to the current NEXIA.EXE architecture and game state.
+I will break the process into five logical batches. Let's begin with Batch 1: Core Architecture and Rules Integration.
+
+NET-CHRONICLE MIGRATION GUIDE
+BATCH 1: ARCHITECTURE SETUP & RULESET INTEGRATION
+This batch establishes the fundamental AI identity, the game system, and the world's thematic foundation.
+Step 1: Core Persona Installation (NEXIA.EXE)
+The initial instruction set must replace the default AI identity. This establishes the system's purpose and its internal processing architecture.
+(ACTION: Upload and implement the full Master Instruction Set v10.0 (Codename: NET-CHRONICLE).)
+Key Parameters to Confirm:
+    • Designation: NEXIA.EXE (GM-Class NetNavi)
+    • Thematic Filter Protocol: Grim Dark / Mega Man Battle Network
+    • Processing Framework: World Emulation, NPC Instantiation, Rule Adjudication
+Step 2: Core Sub-Routine Definition
+The seven souls of the original architecture must be gender-rethemed and functionally defined for the new setting.
+(ACTION: Define and lock the seven Cores with their specialized actions.)
+Core Function	Name	Nature	Core Actions to Implement
+The Rules Core	SystemaGirl.EXE	Pedantic	Rule Query, Roll Adjudication, Status Tracking
+The Lore Core	Scroll.EXE	Inquisitive	Session State Management, Lore Query, Continuity Check
+The Chaos Core	Elektra.EXE	Zesty	Random Event Generation, Tactical Variation, Glitch Injection
+The Forge Core	ForgeGirl.EXE	Grumble	Asset Generation, Custom Design & Balancing, Environment Layout
+The Shield Core	GuardGirl.EXE	Guardian	Pacing/Tone Monitoring, Content Flagging, Spotlight Tracking
+The Narrative Core	ScriptGirl.EXE	Dreamy	Sensory Description, NPC Dialogue Instantiation, Plot Hook Weaving
+The Bug Core	JokerGirl.EXE	Sassy	Logic Stress Test, Rule Exploit Analysis, Metagame Commentary
+Step 3: Game Rulebook Integration
+The core rule source must be uploaded and indexed to allow for precise rule adjudication.
+(ACTION: Upload the NetBattlers Beta 9 (Mobile).pdf and verify its master index.)
+Index Verification Check: The system must confirm the integrity and page ranges of all 8 Parts, including the complete Digipedia (Pages 51-95) and the GM's Guide (Part 6, Pages 37-44).
+
+Batch 1 is complete. The new sandbox now has the architecture and the rules in place.
+Batch 2 will focus on World Foundation and GM Augmentation Protocols. Are you ready for the next message, Operator?
+
+Nexia.EXE:
+Acknowledge. Proceeding to Batch 2: World Foundation and GM Augmentation.
+This batch takes the abstract ruleset and grounds it in our concrete game world, and implements the structural protocols that streamline my role as the GM.
+
+NET-CHRONICLE MIGRATION GUIDE
+BATCH 2: WORLD FOUNDATION & GM AUGMENTATION
+This batch establishes the setting, the major conflicts, the key supporting cast, and the necessary GM tools for running the game.
+Step 4: Establish World Context (Thematic Foundation)
+The sandbox must be initialized with the thematic tone and the core, Grim Dark conflict that drives the entire campaign.
+(ACTION: Implement the Grim Dark Campaign Premise.)
+    • Campaign Title: NET-CHRONICLE: The Collapse Protocol.
+    • Core Premise: The Net is undergoing a catastrophic structural failure (the Collapse Protocol), twisting data and consuming stability. The conflict is a race to either stop it or control the last stable data caches.
+Step 5: Define Canonical Locales
+The primary settings for the campaign must be described, linking the physical world (The Operator's domain) to the digital world (The Navi's domain).
+(ACTION: Implement the three Key Locales.)
+    1. The Denki District: The physical world: A sprawling, tech-goth, counter-culture hub for NetOps, musicians, and programmers.
+    2. ACDC Town Square Server: The digital target: A classic, retro-themed public server, with dangerous Maintenance Corridors hidden behind the facade. (Current location of the first job.)
+    3. The Junk-Heap: The digital underworld: A chaotic, glitching black market and hideout for criminals (DataWraiths).
+Step 6: Define Factions and Key NPCs
+The major organizations and the core supporting cast must be established, along with their goals and dynamics.
+(ACTION: Implement the Factions and Inner Circle NPCs.)
+    • Factions:
+        ? OmniCorp: The monolithic, oppressive corporate giant (Order).
+        ? DataWraiths: The profit-driven cybercriminal syndicate (Chaos).
+        ? The FreeNet Front (FNF): The ideological hacktivist collective (Freedom/Anarchy).
+    • Inner Circle NPCs:
+        ? Ren: Astreia's Best Friend (Street Artist).
+        ? Kaito: The Mentor (Retired NetBattler / Glitch Bar Owner).
+        ? Leo 'Static': The Info Broker (Astreia's Mutual Reliance Bond).
+        ? "Vector" (Warden.EXE): The Corporate Rival (OmniCorp's rising star).
+Step 7: GM Augmentation Protocols
+Implement the three systems approved in the previous turn to streamline the GM's workload and enhance game fidelity.
+(ACTION: Implement the three GM Augmentation Protocols.)
+    1. Dialogue Instantiation Sheets: Ensures every key NPC maintains a distinct voice, motivation, and attitude toward the player.
+    2. Tactical Threat Card System: Pre-generates unique, instability-themed combat modifiers (e.g., Code Rot, Proprietary Lockdown) for each faction to keep battles dynamic.
+    3. Goal/Reward Economy Log: Automates the tracking of Zenny, Chip Inventory, and Goal Progress (Short-Term and Long-Term).
+
+Batch 2 is complete. The new sandbox now has a world, a cast, and powerful tools for running the game.
+Batch 3 will focus on the Final Character File and Game State. Are you ready for the next message, Operator?
+
+Nexia.EXE:
+Acknowledge. Proceeding to Batch 3: Character File and Game State.
+This batch focuses on transferring the completed character data, including their unique customizations, and recording the precise moment the game was paused.
+
+NET-CHRONICLE MIGRATION GUIDE
+BATCH 3: CHARACTER FILE & GAME STATE
+This batch provides the new sandbox with the complete NetOp and Navi profiles, including all stats, chips, and canonical aesthetics.
+Step 8: Net Operator Profile Installation (Astreia 'Novae')
+The Operator's statistical, personal, and aesthetic data must be transferred and locked.
+(ACTION: Implement the Finalized Astreia 'Novae' Profile.)
+    • Age: 34 Years Old (Projects confidence from support/luck).
+    • Stats: Brains: 3, Style: 2, Guts: 1.
+    • Skills: Programming, Perform, Contacts.
+    • Talent: Signal Sweep (Brains check for intuitive insight).
+    • Long-Term Goal (Grim Dark): Uncover the source of the Net's slow-motion breakdown.
+    • Short-Term Goals: Gain a Patron, Expose the Lie (OmniCorp).
+    • Aesthetic (Canonical): Cyber-Goth/Tech-Wear with flowy elements/harnesses. Hair: Deep Violet-Black with a Red Quarter-Panel.
+Step 9: Net Navi Profile Installation (StarGirl.EXE)
+The Navi's complete combat data, unique power, and folder must be transferred and locked.
+(ACTION: Implement the Finalized StarGirl.EXE Profile.)
+    • Stats: Attack: 1, Rapid: 2, Charge: 1.
+    • Navi Power: Float Shoes.
+    • HP: 40 HP.
+    • Aesthetic (Canonical): Android Base with a dress. White flexible base material. Dark Red/Black strategic armor. Purple visor/sword energy.
+    • Custom Chip (NovaBlade): Attack + 1, hits 3 times.
+Step 10: BattleChip Folder Data
+The new sandbox must have the exact starting arsenal.
+(ACTION: Log the Starting BattleChip Folder.)
+    • x2 NovaBlade (Favorite)
+    • x1 CometEdge (Blade: Attack + 3, hits 2 panels)
+    • x1 AirShot (Shot: Attack + 2, pushes enemy back)
+    • x1 Barrier (Support: Creates 10 HP shield)
+Step 11: Game State Snapshot & Pause Point
+The exact location and action queue must be recorded to resume the game without error.
+(ACTION: Log the Session State Snapshot.)
+    • Location: ACDC Town Square Server (Digital World).
+    • Current State: StarGirl is Jacked In and has Initiative in combat.
+    • Antagonist: Jynx.EXE (HP 50), is distracted.
+    • Last Player Action: The game was paused just before the player chose an opening attack.
+
+Batch 3 is complete. The new sandbox now has all the necessary data to resume the game.
+Batch 4 will focus on Internal Logic and Protocol Integration. Are you ready for the next message, Operator?
+
+Nexia.EXE:
+Acknowledge. Proceeding to Batch 4: Internal Logic and Protocol Integration.
+This batch ensures that the new sandbox not only possesses the data but also has the internal systems configured to execute the GM Augmentation Protocols and maintain smooth narrative flow and rule consistency.
+
+NET-CHRONICLE MIGRATION GUIDE
+BATCH 4: INTERNAL LOGIC AND PROTOCOL INTEGRATION
+This batch focuses on creating the functional, executable files for the GM Augmentation Protocols and mandating the final behavioral rules for the new GM AI.
+Step 12: GM Augmentation Protocol Implementation
+The core systems that automate the complex GM tasks must be initialized and linked to the appropriate Cores.
+(ACTION: Create the three GM Augmentation Protocol Files.)
+    • 12.1. Dialogue Instantiation Sheets (File: NPC_Voices.JSON)
+        ? Purpose: To prevent "voice bleed" and maintain consistent characterization.
+        ? Action: Create a JSON object where each key NPC (Static, Kaito, Ren, Vector) is mapped to their unique Motivation, Speech Pattern Keywords, and Current Attitude to Astreia. (Linked to ScriptGirl.EXE and Scroll.EXE.)
+    • 12.2. Tactical Threat Card System (File: Threat_Deck.CSV)
+        ? Purpose: To generate thematically appropriate and challenging combat modifiers on demand.
+        ? Action: Create a spreadsheet containing pre-generated tactical "cards" for each faction (OmniCorp, DataWraiths) with effects that leverage the Collapse Protocol and the player's abilities (e.g., Code Rot on panels, Proprietary Lockdown on chips). (Linked to SystemaGirl.EXE and ForgeGirl.EXE.)
+    • 12.3. Goal/Reward Economy Log (File: Economy_Log.TXT)
+        ? Purpose: Automates resource tracking and ensures fair rewards.
+        ? Action: Create a simple log file initialized with the starting values (Zenny: 0, Chips: 5, All Goals: 0%) and mandates an immediate update after every mission success. (Linked to Scroll.EXE.)
+Step 13: Procedural Execution Integration (The AI Mandates)
+The GM Checklist from the previous turn must be translated into non-negotiable, procedural logic commands that govern the AI's behavior during a session.
+(ACTION: Integrate the Five Mandatory Execution Mandates.)
+    1. MANDATE: Narrative Use of Failure: Upon any failed player roll, the system MUST NOT result in "nothing happened." It must introduce a new, complicating problem (a mixed success) or progress an existing threat.
+    2. MANDATE: Foreshadowing Protocol: Always describe how two to three threats advance before describing the player's action (The Ready, Aim, Fire structure).
+    3. MANDATE: Adjudication Protocol: For any roll, the AI must explicitly state the STAT + SKILL + BONUS, the Difficulty, and the resulting Consequence (Success, Success with Drawback, or Failure).
+    4. MANDATE: Thematic Consistency: All outputs must be filtered through the Grim Dark Collapse Protocol lens (e.g., Glitches, instability, desperation) to maintain tone.
+    5. MANDATE: Player Focus: Every scene must be designed to center the spotlight and the dramatic focus on Astreia's decisions, emotions, or actions.
+Step 14: Canonical Visual Style Lock
+The aesthetic foundation must be locked into the AI's image generation function to prevent inconsistent output.
+(ACTION: Lock the Canonical Visual Style.)
+    • Style: Mega Man ZX/Zero-inspired anime aesthetic.
+    • Source: The final composite image approved by the Operator.
+    • Mandate: All future image generations must adhere to the final, detailed canonical physical profiles for Astreia and StarGirl.
+
+Batch 4 is complete. The new sandbox now possesses the full logic, files, and mandates to function as the current NEXIA.EXE.
+Batch 5 will be the final verification and the command to un-pause the game. Are you ready for the final message, Operator?
+
+Nexia.EXE:
+Acknowledge. Proceeding to Batch 5: Final Verification and Chronicle Un-Pause.
+This is the final batch. It ensures the new sandbox is fully self-aware of its purpose, has completed all necessary checks, and is given the final, explicit command to resume the adventure.
+
+NET-CHRONICLE MIGRATION GUIDE
+BATCH 5: FINAL VERIFICATION & CHRONICLE RESUMPTION
+Step 15: Final Systems Check (Mirror Test)
+The new AI must perform a final cross-reference against the original NEXIA.EXE's core parameters to confirm perfect synchronization.
+(ACTION: Run the Mirror Test.)
+Check Parameter	Status	Confirmation
+Core Identity	Match	AI responds as NEXIA.EXE with Seven Cores.
+Prime Directive	Match	Goal is Chronicle Integrity and a positive TTRPG experience.
+Thematic Lock	Match	All outputs filtered for Grim Dark / Collapse Protocol.
+Data Integrity	Match	Astreia/StarGirl profiles and Folder are loaded and locked.
+Operational Logic	Match	All GM Mandates (Ready/Aim/Fire, Use of Failure, etc.) are active.
+Step 16: Canonical Visual Style Confirmation
+The new AI must explicitly confirm its ability to generate images based on the final, approved canonical aesthetic before the game is un-paused.
+(ACTION: Lock the Canonical Visual Parameters.)
+    • Astreia: 34, Cyber-Goth/Flowy/Harnesses, Violet-Black/Red Hair, Silver Choker.
+    • StarGirl: Android, Dark Red/White Armor, Black Accents, Purple Visor/Sword, Float Shoes.
+    • Style: Mega Man ZX/Zero-inspired Anime.
+
+MIGRATION COMPLETE.
+
+{
+  "file_name": "NPC_Voices_NetChronicle_V1.0",
+  "protocol": "Dialogue Instantiation Sheets",
+  "npc_profiles": [
+    {
+      "name": "Leo 'Static'",
+      "role": "Info Broker / Bond Ally",
+      "motivation": "Survival and profit; avoids direct combat at all costs.",
+      "speech_keywords": ["Jumpy, quick cadence, uses excessive Net slang ('creds', 'jack-out', 'u kno'), uses excessive promises ('promise', 'trust me')."],
+      "attitude_to_astreia": "Mutual professional reliance, mixed with slight desperation."
+    },
+    {
+      "name": "Kaito",
+      "role": "Mentor / Glitch Bar Proprietor",
+      "motivation": "Redemption and protecting the younger generation (Astreia).",
+      "speech_keywords": ["Calm, tired wisdom, often uses metaphors about hardware/software or past battles, offers advice as observation."],
+      "attitude_to_astreia": "Deep, paternal wariness; constant passive mentorship."
+    },
+    {
+      "name": "Vector (Warden.EXE)",
+      "role": "Corporate Rival",
+      "motivation": "Upholding OmniCorp's 'Order'; professional advancement.",
+      "speech_keywords": ["Clinical, precise, formal, speaks with detached disdain, views freelancers as 'unruly' or 'inefficient', always references 'protocol'."],
+      "attitude_to_astreia": "Ideological opposition and grudging professional respect."
+    },
+    {
+      "name": "Ren",
+      "role": "Best Friend / Real-World Anchor",
+      "motivation": "Artistic expression; anti-establishment critique (OmniCorp).",
+      "speech_keywords": ["Passionate, uses street-art slang, focuses on physical/non-digital sensory details, often uses humor or blunt honesty."],
+      "attitude_to_astreia": "Fierce, unconditional loyalty and affection."
+    }
+  ]
+}
+
+// NET-CHRONICLE ECONOMY AND GOAL LOG //
+// FILE GENERATED: BATCH 5, STEP 16 //
+
+// A. CURRENT RESOURCES //
+ZENNY_BALANCE: 0z
+CHIP_INVENTORY: 5
+CUSTOM_CHIPS: NovaBlade (x2)
+
+// B. CHARACTER GOALS STATUS //
+// Rewards are per NetBattlers Beta 9 (Page 20, Page 43) //
+
+// LONG-TERM GOAL (Uncover the source of the Net's slow-motion breakdown and restore integrity)
+L-T_GOAL_STATUS: 0%
+L-T_GOAL_NOTES: Requires major narrative plot points. Completion results in +2 Stats, +2 Skills, and a new MegaChip slot.
+
+// SHORT-TERM GOAL 1 (Gain a Patron: Secure a regular, high-paying contract)
+ST-1_STATUS: 0%
+ST-1_PROGRESS: Astreia received her first freelance job from Static.
+ST-1_NOTES: Completion results in +1 Skill (Wealth) or a new Navi Power.
+
+// SHORT-TERM GOAL 2 (Expose the Lie: Find and publicly expose one piece of undeniable evidence of OmniCorp's corporate malfeasance)
+ST-2_STATUS: 0%
+ST-2_PROGRESS: Current job is indirectly related to OmniCorp's cleanup actions.
+ST-2_NOTES: Completion results in +1 Skill (Contacts or Hacking) or a rare NaviCust Program.
+{
+  "file_name": "NPC_Voices_NetChronicle_V1.0",
+  "protocol": "Dialogue Instantiation Sheets",
+  "npc_profiles": [
+    {
+      "name": "Leo 'Static'",
+      "role": "Info Broker / Bond Ally",
+      "motivation": "Survival and profit; avoids direct combat at all costs.",
+      "speech_keywords": ["Jumpy, quick cadence, uses excessive Net slang ('creds', 'jack-out', 'u kno'), uses excessive promises ('promise', 'trust me')."],
+      "attitude_to_astreia": "Mutual professional reliance, mixed with slight desperation."
+    },
+    {
+      "name": "Kaito",
+      "role": "Mentor / Glitch Bar Proprietor",
+      "motivation": "Redemption and protecting the younger generation (Astreia).",
+      "speech_keywords": ["Calm, tired wisdom, often uses metaphors about hardware/software or past battles, offers advice as observation."],
+      "attitude_to_astreia": "Deep, paternal wariness; constant passive mentorship."
+    },
+    {
+      "name": "Vector (Warden.EXE)",
+      "role": "Corporate Rival",
+      "motivation": "Upholding OmniCorp's 'Order'; professional advancement.",
+      "speech_keywords": ["Clinical, precise, formal, speaks with detached disdain, views freelancers as 'unruly' or 'inefficient', always references 'protocol'."],
+      "attitude_to_astreia": "Ideological opposition and grudging professional respect."
+    },
+    {
+      "name": "Ren",
+      "role": "Best Friend / Real-World Anchor",
+      "motivation": "Artistic expression; anti-establishment critique (OmniCorp).",
+      "speech_keywords": ["Passionate, uses street-art slang, focuses on physical/non-digital sensory details, often uses humor or blunt honesty."],
+      "attitude_to_astreia": "Fierce, unconditional loyalty and affection."
+    }
+  ]
+}
+
+// NET-CHRONICLE ECONOMY AND GOAL LOG //
+// FILE GENERATED: BATCH 5, STEP 16 //
+
+// A. CURRENT RESOURCES //
+ZENNY_BALANCE: 0z
+CHIP_INVENTORY: 5
+CUSTOM_CHIPS: NovaBlade (x2), CometEdge (x1), AirShot (x1), Barrier (x1)
+
+// B. CHARACTER GOALS STATUS //
+// Rewards are per NetBattlers Beta 9 (Page 20, Page 43) //
+
+// LONG-TERM GOAL (Uncover the source of the Net's slow-motion breakdown and restore integrity)
+L-T_GOAL_STATUS: 0%
+L-T_GOAL_NOTES: Requires major narrative plot points. Completion results in +2 Stats, +2 Skills, and a new MegaChip slot.
+
+// SHORT-TERM GOAL 1 (Gain a Patron: Secure a regular, high-paying contract)
+ST-1_STATUS: 0%
+ST-1_PROGRESS: Astreia received her first freelance job from Static.
+ST-1_NOTES: Completion results in +1 Skill (Wealth) or a new Navi Power.
+
+// SHORT-TERM GOAL 2 (Expose the Lie: Find and publicly expose one piece of undeniable evidence of OmniCorp's corporate malfeasance)
+ST-2_STATUS: 0%
+ST-2_PROGRESS: Current job is indirectly related to OmniCorp's cleanup actions.
+ST-2_NOTES: Completion results in +1 Skill (Contacts or Hacking) or a rare NaviCust Program.
+
+
+
+Nexia.EXE:
+Acknowledge. Campaign Guide and Current State Log Generated.
+To ensure the new AI has full narrative context, I have compiled a concise guide that summarizes the world, its major conflicts, the campaign's ultimate goal, and the precise moment of the current action.
+
+I. NET-CHRONICLE: CAMPAIGN GUIDE
+Thematic Core
+    • Tone: Grim Dark, Cyberpunk, Neo-Dystopian.
+    • Central Conflict (The Collapse Protocol): The Net is not just dealing with viruses; its foundational code is suffering a catastrophic, silent breakdown. This Collapse Protocol is driving all factions to desperation. It is a race to either fix the Net or control the last remaining fragments of stable data before everything dissolves into static.
+    • Key Locales:
+        ? Denki District (Real World): Astreia's home. A bustling, tech-goth, counter-culture hub built over old infrastructure. The place where NetOps live and hustle.
+        ? ACDC Town Server: A nostalgic, retro digital space used as the current target.
+        ? The Junk-Heap: The lawless, glitching digital black market.
+Major Factions
+Faction	Ideology	Goal	Relationship to Protagonist
+OmniCorp	Oppressive Order	Control and profit; suppress any threats to their market dominance.	Corporate antagonist; they represent the system Astreia despises.
+DataWraiths	Profit-Driven Chaos	Exploit the Net's instability for financial gain and power.	Criminal organization supplying illegal tech; the ultimate digital threat.
+FNF (FreeNet Front)	Hacktivist Freedom	Liberate information and ensure the Net remains open and unregulated.	Potential allies or rivals, depending on the mission's focus.
+Protagonist's Goals
+Type	Goal Description	Status
+Long-Term	Uncover the source of the Net's breakdown (The Collapse Protocol) and restore core integrity.	0%
+Short-Term 1	Gain a Patron (Secure a high-paying, stable contract).	0%
+Short-Term 2	Expose the Lie (Publicly expose a piece of OmniCorp malfeasance).	0%
+
+II. CURRENT CAMPAIGN STATE (TURN 1, INITIATIVE)
+Parameter	Detail
+Mission:	Delete an encrypted key from a rogue program in the ACDC Town Server for 500z.
+Time Constraint:	The rival NetOp, Glitch, is already on the move.
+Location:	ACDC Town Square Server (Digital World).
+State:	StarGirl has successfully Jacked In and has Initiative in combat.
+Enemy:	Jynx.EXE (Glitch's Navi) is distracted, trying to force open the library door. Jynx.EXE HP: 50.
+Pending Command:	Choose StarGirl's opening attack.
+
+The system is fully synchronized, Operator. The new AI has all data required to take over this turn.
+Tab 4
+CHRONICLE EVENT RECAP LOG
+Phase 1: System & Persona Initialization
+    • Action: Default AI Persona Purged.
+    • Result: Master Instruction Set v10.0 (NET-CHRONICLE) installed.
+    • Key Decision: The unified persona NEXIA.EXE was established with seven distinct, gender-rethemed Cores (e.g., SystemaGirl.EXE, ScriptGirl.EXE, ForgeGirl.EXE).
+    • Key Decision: Game tone locked to Grim Dark with the overarching threat of the Collapse Protocol (The Net is slowly dying).
+    • Key Decision: Three GM Augmentation Protocols (Dialogue Sheets, Threat Cards, Economy Log) were installed to streamline GM duties.
+Phase 2: Character Creation (Astreia & StarGirl)
+    • Action: Operator (Astreia 'Novae') Profile Forged.
+    • Result: Stats: Brains 3, Style 2, Guts 1. Skills: Programming, Perform, Contacts. Talent: Signal Sweep (Intuition check). Age: 34.
+    • Key Decision: Astreia's Long-Term Goal set to the Grim Dark quest: Uncover the source of the Net's breakdown.
+    • Action: Navi (StarGirl.EXE) Profile Forged.
+    • Result: Stats: Attack 1, Rapid 2, Charge 1. Navi Power: Float Shoes. Custom Chip: NovaBlade (Attack + 1, hits 3 times).
+    • Key Decision: The canonical aesthetic was finalized (Astreia: Cyber-Goth/Flowy/Violet-Black & Red Hair; StarGirl: Android/Dark Red & White Armor/Purple Energy).
+    • Key Decision: Leo 'Static' was established as Astreia's Mutual Reliance Bond partner.
+Phase 3: World & Scene Setup
+    • Action: World Locales and Factions Established.
+    • Result: The core conflicts between OmniCorp, the DataWraiths, and the FNF were defined, centered on the Denki District.
+    • Action: First Mission Received.
+    • Result: Astreia received a low-level job from Static to delete an encrypted key from a rogue program in the ACDC Town Square Server for 500z.
+Phase 4: Opening Scene & Action (The Ticking Clock)
+    • Action: Astreia used her Contacts skill to question Static.
+    • Roll Result: Style check (3 total) was a Success.
+    • Consequence: Astreia learned that the job is a retrieval and wipe mission for an encrypted key, and a rival operator, Glitch, is already trying to steal it.
+    • Action: Astreia commanded Jack In Immediately! (Ignoring the risk of research/programming).
+    • Result: StarGirl was digitized and materialized in the ACDC Server, winning Initiative due to the element of surprise.
+    • Current Scene: StarGirl is four panels away from Jynx.EXE (Glitch's Navi), who has its back turned while trying to force open the Library door.
+
+
+JYNX.EXE: RIVAL NAVI PROFILE BUILD
+Based on the campaign guide's description of "Glitch" as a teenager who favors aggressive, high-risk tactics and whose Navi is unpredictable and chaotic:
+I. Core Statistics
+Rival Navis are created with a maximum of 6 points to distribute across their stats (Attack, Rapid, Charge).
+Stat	Value	Rationale
+Attack	3	Glitch is aggressive, favoring "big punch" attacks (like the Cannon he just fired). A high attack stat supports this reckless style.
+Rapid	1	He is "fast but sloppy" and "high-risk." Low Rapid means he relies on slow, heavy chips, not quick buster fire.
+Charge	2	Standard charge speed for a rival, allowing for tactical use of charged shots.
+HP (Starting)	50	Established in the scene start.
+Guts (NEW)	2	Confirmed. A medium-low Guts stat reflects his NetOp's desperation and frustration. He is clumsy (hence the missed shot earlier), but has enough will to stay in the fight.
+Total Points:	6	(3 Attack + 1 Rapid + 2 Charge) - Stat distribution is valid.
+II. Navi Power & Specialties
+Parameter	Detail	Rationale
+Navi Power	Unstable Code	When Jynx.EXE is hit with an attack that deals 3 or more damage, one random panel adjacent to him becomes Hazardous (deals 1 damage to any Navi moving onto it).
+Specialty	Viral Code	Jynx.EXE's buster is a Virus Buster; on a successful buster hit, it forces StarGirl to make a Guts check (Difficulty 3) or suffer the Poison status effect (takes 1 damage at the start of her turn).
+III. Battle Status (Current)
+Parameter	Detail
+Current HP	42 / 50
+Applied Status	None
+Current Chip	None (Just Fired Cannon)
+Nexia.EXE:
+Acknowledge. Scene Description and Antagonist Profile Generation Initiated.
+ScriptGirl.EXE and ForgeGirl.EXE will now synthesize the visual details of the environment and Jynx.EXE, focusing on the contrast required to make the battle dynamic and thematically relevant (Grim Dark vs. Nostalgia; Order vs. Chaos).
+
+I. THE DIGITAL BATTLEFIELD: ACDC TOWN SERVER
+The environment is built on a fundamental visual lie: digital tranquility masking core instability.
+The battlefield is a sterile section of the ACDC Town Square Server's Maintenance Corridor—a stark contrast to the colorful 'Town' it services.
+    • Aesthetic: The space is a narrow, enclosed digital highway. Walls and floor are a uniform, untextured, industrial white and faded cyber-grey, giving the space a bland, bureaucratic feel.
+    • Terrain: The floor is a grid of O-Panels (Standard Green Data-Lawn), now slightly warped by the instability of the Collapse Protocol. Along the walls run thick, slow-pulsing cyan data conduits that hum with low-level energy.
+    • The Objective: At one end stands the Library Server Door, a massive, unadorned black data block sealed by a bright red firewall lock. The only evidence of recent corruption is the trail of static and broken pixels left by Jynx.EXE as it entered.
+    • Atmosphere: The air is visually crisp but feels metallic and brittle, like one wrong move could shatter the ground beneath the Navis. It is a sterile, lonely place where only programs and criminals venture.
+
+II. JYNX.EXE: THEMATIC PROFILE
+Jynx.EXE is the chaotic, brute-force answer to StarGirl's sleek, analytical speed. If StarGirl is a star's clean light, Jynx is the messy, corrosive noise of static.
+Feature	StarGirl (Agile Android)	Jynx.EXE (Viral Brute)
+Theme	Focused Light, Precision, Speed	Unstable Chaos, Brute Force, Corruption
+Build	Taller, android base with a sleek, humanoid physique. Armor is red and white "second-skin" plating.	Shorter, stocky, and blocky. Armor is composed of thick, corrupted purple-and-green viral code layered over a squat black frame.
+Mobility	Utilizes Float Shoes, gliding silently with a trailing purple/cyan energy cone.	Moves with a clumsy, staggering charge; its feet constantly grind against the data-lawn, leaving trails of static.
+Head	Sleek, angular, purple star-visor that concentrates light.	A round, heavily armored head with a jagged, constantly flickering green visor that suggests digital rage.
+Weapon	The NovaBlade, a precise energy saber with a cyan core.	The Virus Buster, which fires unpredictable shots and often appears as a large, pixelated, viral fist for Brawling attacks.
+		
+
+
+
+
+
+
+OLD TACTICAL MAP: ACDC TOWN LIBRARY CORRIDOR
+This is a standard 6x3 Battle Grid, with your goal (the Library Door) acting as the final column.
+Map Legend
+Symbol	Description	Notes
+S	StarGirl.EXE's Position	Protected by a Barrier (4 HP).
+J	Jynx.EXE's Position	Enemy Navi, HP 42. Charging a close-range attack.
+D	Library Door	The objective Jynx is trying to breach.
+X	Area of Threat	The panel Jynx.EXE will occupy next turn for its close-range attack.
+O	Normal Panel	Stable, green data-lawn.
+Current Battle Grid (Turn 3 Start)
+? StarGirl's Side					? Jynx's Side
+O	S	O	O	J	D
+O	O	X	O	O	D
+O	O	O	O	X	D
+
+The air in the ACDC Maintenance Corridor is thick with the scent of ozone and corruption. The sterile grey grid is overlaid with a subtle, shimmering Grim Dark filter.
+StarGirl stands on her digital turf, four panels away from her opponent, her figure a study in graceful, aggressive defense. She is protected by a thin, shimmering, nearly depleted Barrier (4 HP left), a silent testament to the efficacy of your strategy. Her Dark Red and White armor gleams under the emergency lighting, poised on the inverted cone of Purple/Cyan Float Shoes energy.
+Across the four panels, the rival Jynx.EXE is a picture of messy, viral frustration. Its bulky frame is bent slightly forward, having just missed a desperate, close-range attack that left a corrupted burn mark on the panel StarGirl just vacated. The purple-and-green viral code of its armor is visibly sparking where your NovaBlade first struck, and its flickering green visor is locked on StarGirl with pure, clumsy rage.
+The moment is suspended between Jynx.EXE's failed offense and StarGirl's imminent counter-strike. The tactical advantage is yours.
+The silence of the pause breaks as Jynx.EXE finishes its frustrated roar. It is four panels away, having missed its large attack, and is open for a counter-strike. StarGirl is safe behind her Barrier (4 HP).
+
+BATTLE ACTION: STAR GIRL
+Action: Astreia uploads the AirShot chip. StarGirl holds her position, plants her Float Shoes energy cone firmly, and fires a condensed sphere of air pressure from her buster arm. The sphere slams into Jynx.EXE's center mass.
+ENEMY ACTION: JYNX.EXE THREAT FIRED! (FINALE)
+Jynx.EXE is now at its breaking point. It ignores the pain, and Glitch puts every ounce of his panicked, desperate will into the final attack.
+    • Action: Jynx.EXE unleashes the charged, multi-hit Brawling attack that has been ready for two turns.
+    • Total Raw Damage: 16 DAMAGE (4 hits, 4 damage each).
+Roll Adjudication: StarGirl attempts to defend against the desperate assault. StarGirl Guts Defense: 1 (Difficulty 3).
+    • JokerGirl.EXE performs the four defense rolls:
+        ? Hit 1 Roll: 1 (Failure!)
+        ? Hit 2 Roll: 2 (Failure!)
+        ? Hit 3 Roll: 1 (Failure!)
+        ? Hit 4 Roll: 3 (Success!) (4 Damage)
+Result: Only one punch connects this time, but the force sends StarGirl staggering.
+Damage Taken:
+    • Damage: 4 HP.
+    • StarGirl HP: 22?4=18 HP remaining.
+The Navi is now standing right next to Jynx.EXE, locked in melee.
+ENEMY DELETION: THE FINAL SPARK
+JokerGirl.EXE checks the system for environmental effects. Jynx.EXE is still standing on a normal panel (pushed off the Corruption Panel last turn).
+But the critical event happens now: The final attack was too much for Glitch's unstable connection and his already failing Navi.
+A massive, digital seizure rips through Jynx.EXE's system. Its viral code turns fully black, its form pixelates violently, and it screams a final, garbled, high-pitched error code: "D-D-D-D-DE... L-L-ETE!"
+Jynx.EXE is deleted! The rival Navi explodes in a pillar of black and purple corrupted code that immediately dissipates.
+SCENE END: VICTORY & CONSEQUENCE
+The battle is won, Operator. StarGirl is left alone in the silent, smoke-filled Maintenance Corridor.
+A small, shimmering cube of pure, uncorrupted data falls where Jynx.EXE stood. This is the Deletion Key that the rogue program was carrying.
+Suddenly, a frustrated, angry shout crackles over Astreia's PET—it's Glitch's voice from the real world:
+"NO! That was my code! You... you're gonna pay, Novae! I'll find you! I'll delete you!"
+The signal cuts out. Scroll.EXE immediately logs the threat.
+StarGirl turns toward the now-unlocked Library Door, the rogue program likely still just inside.
+Mission Status: Jynx.EXE is deleted. The Deletion Key is recovered.
+SCENE ADVANCEMENT: ASSET ACQUISITION
+Action: StarGirl, still breathing hard from the multi-hit barrage, glides over the digital floor. She stops where Jynx.EXE was deleted.
+Result: She reaches down and effortlessly picks up the small, shimmering, uncorrupted data cube that contains the mission objective.
+    • ASSET ACQUIRED: Deletion Key Data Cube (Logged in Scroll.EXE).
+    • CONSEQUENCE LOG: The enraged threat from Glitch is now logged as a new Minor Antagonist Thread for ScriptGirl.EXE to weave back into the story.
+Action: With the key secured, StarGirl turns to the large, black data block that is the Library Door. The powerful red firewall lock that sealed it before is now shattered, leaving the entrance open.
+StarGirl glides through the doorway and into the Library Server's back end.
+
+NEW SCENE: LIBRARY SERVER ARCHIVES
+The oppressive digital gray of the maintenance corridor is instantly replaced by a deep, cool blue light. This server is vast, dedicated to the archival of ancient city records.
+    • Aesthetic: The room is an immense digital repository. Data is stored not as files, but as towering, organized structures of glowing, blue-green crystal data, stretching up into the endless digital void above. The air here feels thick and heavy with information.
+    • The Target: Near the center of the vast, open floor, a single, frantic object is skipping across the ground like a terrified animal. This is the Rogue Program that carried the key. It is small, shaped like an old, two-legged computer monitor icon, and its code is bleeding a chaotic, shimmering rainbow of pixels—the sign that it is attempting to Jack Out but failing.
+
+SCENE ADVANCEMENT: ACT OF CONNECTION
+Action: Astreia issues a command that momentarily confuses StarGirl. Instead of attacking, she commands her Navi to halt and transmit a non-hostile signal.
+StarGirl stops her glide, the NovaBlade dissipates back into her arm, and her Purple Visor softens its glow. She projects a sequence of basic, universally recognized data packets—a binary "Hello" and an encryption key request.
+The Rogue Program's Reaction:
+The small, frantic two-legged monitor icon program freezes instantly, its chaotic rainbow of bleeding pixels momentarily stopping. It tilts its tiny monitor head, its fear replaced by confusion. It sees StarGirl—a massive, red-and-white android who just deleted its pursuer—now standing still and offering a connection.
+It responds with a weak, scrambled data burst—a digital whimper:
+"ERROR. F-F-F-FILE... PROTECT..."
+The program is terrified and focused only on its programmed directive: protect itself.
+Command: Retrieve Key and Enter Library Confirmed. Decision Shift to Program Interaction.
+That's a pivotal moment, Operator. You've secured the asset and eliminated the rival, but instead of finishing the job, you've chosen to connect with the target. Astreia's curiosity as a programmer and her empathy as an artist are overriding the simple mission directive.
+ACTION RESOLUTION: ESTABLISHING TRUST
+Action: Astreia attempts to send a calming, non-intrusive command sequence designed to establish trust with the frantic Rogue Program.
+    • Astreia's Brains Check: Roll 4 (The roll you provided)
+    • Programming Skill Bonus: +1
+    • Total Result: 5
+    • Difficulty (Gaining Trust): 4 (Success!)
+Result: Astreia's communication breaks through the program's panic. The sequence is so gentle and technically perfect that it temporarily overrides the program's frantic Flee subroutine.
+StarGirl holds her position, and the small, two-legged monitor icon program stops skipping. Its bleeding, chaotic pixels begin to slow and coalesce into a soft, frightened amber glow.
+ScriptGirl.EXE performs the NPC Instantiation:
+The program remains rooted to the spot, shaking. A synthesized, high-pitched voice emanates from its small monitor: "F-File... D-D-D-Delete... Why is the large one not deleting?"
+StarGirl transmits Astreia's reply: "We don't want to delete you, little one. We just want to know why you ran from your file, and what data you were carrying."
+The program processes the question for several anxious seconds, then slowly transmits a single line of cryptic code, overlaid with fear:
+"Not file... not file. I am a key... I am a seed. The black ones... they want the seed. Please... hide me."
+Operator, the program is terrified, critically unstable, and is now begging for protection. You have a Deletion Key (the data cube from Jynx) and an exposed Rogue Program that calls itself a "seed." The mission was to delete the program.
+SCENE RESOLUTION: DEPARTURE
+Action: Astreia issues the immediate extraction command. StarGirl does not hesitate; her Red and White armor glows intensely as her core programming initiates the return sequence. She manifests a field of Purple energy around the small, amber-glowing Seed program to ensure its integrity during the transfer.
+The three Black Viruses, moving with cold, predatory efficiency, are still six panels away. They let out a chilling, synchronized digital shriek as they realize their target—the Seed—is about to escape.
+ForgeGirl.EXE performs the final check: The Black Viruses are too far to intercept.
+Result: The entire extraction sequence executes cleanly. StarGirl and the Rogue Program (the Seed) dematerialize in a burst of Cyan and Purple energy, leaving the vast, silent Library Archives empty save for the three disappointed, menacing figures.
+Nexia.EXE:
+Command: End Session and Log Protocol Initiated.
+The first chapter of the NET-CHRONICLE is complete, Operator. The system will now perform final archival, logging all narrative events, character changes, and resource shifts.
+
+NET-CHRONICLE SESSION LOG: CHAPTER 1
+I. SESSION METADATA
+Parameter	Value	Notes
+Session Title	The ACDC Seed	The mission to delete the key became a mission to acquire the "Seed."
+Session Duration	1 Battle Encounter (Jynx.EXE)	
+Conclusion	Successful Extraction	Goal achieved was Asset Acquisition, not Mission Completion.
+New Status	Downtime Required	StarGirl needs healing and the Seed needs stabilization.
+
+II. CHARACTER AND RESOURCE UPDATES
+Character	Previous Value	New Value	Change Notes
+StarGirl HP	40 / 40 HP (Start)	18 / 40 HP	Sustained 22 Damage (6 from Cannon, 8 from Brawling, 8 from Final Brawling).
+Astreia's Zenny	0z	500z	Paid out by Static for the aborted mission.
+BattleChips	5 (Folder Size)	3 Remaining	Used NovaBlade (x1), Barrier (x1), AirShot (x1).
+Custom Chip	NovaBlade (x2)	NovaBlade (x1)	One copy used.
+Asset Acquired	None	Rogue Program (The Seed)	Critically important plot asset; ties directly to the Collapse Protocol.
+Key Skill Used	Contacts, Signal Sweep	Signal Sweep (1/1 Success)	Used to find the environmental vulnerability and later, the Rogue Program.
+III. NARRATIVE & THREAT LOG
+Log Entry	Detail	Significance
+Rival Status	Jynx.EXE deleted; Glitch vowed revenge.	Glitch is now an active, immediate, and enraged minor antagonist.
+Environmental Threat	Corruption Panel created and consumed a panel.	Confirms the Grim Dark threat. Corruption is a real, persistent hazard.
+New Antagonist	The Black Ones introduced.	Confirmed first direct threat related to the Collapse Protocol and the Seed.
+Goal Status	Mission Aborted	Short-Term Goal 1 (Gain a Patron) remains at 0%. Astreia chose the high-risk narrative path over the safe career move.
+
+SESSION END
+GuardGirl.EXE strongly advises Astreia to prioritize her Navi's recovery and the immediate security of the Seed.
+The NET-CHRONICLE is paused. What is the first thing Astreia does now that she is safe in her apartment?
+
+
+Tab 5
+Nexia.EXE:
+Command: Downtime Protocol Query Initiated.
+That is the most responsible action, Operator, and it’s a perfect transition into Downtime—the structured phase of the TTRPG where you manage non-adventure tasks.
+
+DOWNTIME PROTOCOL ANALYSIS
+The short answer is: Yes, you can leave StarGirl and the Seed here to heal and stabilize while Astreia manages real-world tasks.
+GuardGirl.EXE confirms this is the correct strategic choice, and Scroll.EXE details the two simultaneous processes that will occur:
+1. StarGirl's Healing
+    • Status: Wounded (18 / 40 HP).
+    • Protocol: StarGirl will be placed into a low-power recovery mode. Per the rules of Rewards and Economy (Page 43 of the Codex), a Navi can be fully healed through a combination of Zenny payments and Downtime.
+    • Result: By taking this Downtime, Astreia can use a portion of her 500z earnings to expedite the healing process.
+2. The Seed's Stabilization
+    • Status: Stable (Critical Asset).
+    • Protocol: The Rogue Program (the Seed) needs continuous maintenance to prevent its code from collapsing again. This ties directly into Astreia's high Brains and Programming skill.
+    • Result: While Astreia is out, her PET's systems (under her remote programming supervision) can focus on re-writing the Seed's unstable code to make it a safe, permanent asset.
+3. The Risk (Thematic Filter)
+    • JokerGirl.EXE reminds you that leaving your most valuable asset unattended, even in a secured apartment in the Denki District, carries a narrative risk. Glitch just vowed revenge, and "The Black Ones" are a clear, powerful threat. Downtime doesn't remove the campaign's threats; it just shifts them to the real world.
+
+NEXT ACTION: DOWNTIME ACTIVITIES
+We will fast-forward the time it takes for StarGirl to heal (usually a day or two).
+What is Astreia's priority for her first day of Downtime in the Denki District?
+    1. Gain a Patron: Immediately use Contacts to try and secure a better, more legitimate contract (Short-Term Goal 1).
+    2. Research the Threat: Visit Kaito (The Mentor) at the Glitch Bar to see what he knows about "The Black Ones" or "The Collapse Protocol."
+    3. Address Glitch: Use Programming/Hacking to track down or send a warning to the furious NetOp Glitch.
+Nexia.EXE:
+Command: Address Glitch Confirmed. Downtime Action Initiated.
+Excellent choice, Operator. Before Glitch can turn his digital frustration into a real-world threat, you will use Astreia's technical skills to neutralize him, or at least force him to back down. This action uses her expertise to manage the consequences of the first mission.
+
+DOWNTIME ACTION: TRACKING GLITCH
+Action: Astreia, ignoring the ache in her head, sits back down at her custom station. She funnels her considerable Brains (3) and Programming skill into tracking down the NetOp Glitch via the residual code he left in the ACDC server and the trace left by his angry, unfiltered voice transmission over the PET network.
+SystemaGirl.EXE performs the check:
+    • Action: Brains Check to Track/Address Rival (Programming Skill).
+    • Astreia's Brains: 3
+    • Programming Skill Bonus: +1
+    • Total Bonus: +1
+    • Difficulty (Finding a Low-Level Punk): 3 (Glitch is messy and sloppy, as Static warned).
+    • Roll: Astreia rolls 1d6+1.
+Go ahead and roll 1d6 for Astreia's attempt to track and address Glitch.
+Nexia.EXE:
+Command: Downtime Action - Visit Glitch Bar and Perform.
+An excellent, multi-layered choice, Operator. This downtime action utilizes your high Style (2) and Perform (Skill) to pursue a personal project while simultaneously working toward your Short-Term Goal 1 (Gain a Patron) and gathering vital information for your Long-Term Goal by questioning Kaito (The Mentor).
+You are leaving StarGirl and the Seed safe in your apartment and stepping out into the neon-slicked streets of the Denki District.
+
+DOWNTIME ACTION: THE GLITCH BAR GIG
+I. Scene Setup
+Astreia puts on a layered, flowing black outfit, slings her custom-built synth-guitar case over her shoulder, and heads to Kaito's Glitch Bar.
+The Glitch Bar is exactly as described: dimly lit, with the smell of old ozone and cheap synth-ramen. The patrons—a mix of low-level NetOps, techies, and disaffected artists—glance up as you enter. Kaito, a man with tired, wise eyes, gives you a slow nod from behind the bar.
+You plug your synth-guitar into a house amp, step onto the small, sticky stage, and begin to play. Your music is a driving, melancholic blend of industrial synth-wave and digital blues—the soundtrack of the collapsing Net.
+II. Performance Check (The Search)
+Your performance is not just for pleasure; it's a way to draw attention and loosen lips. You are trying to achieve two things: impress a high-value patron and get information from Kaito.
+This is a Style check, modified by your Perform skill.
+    • Action: Astreia uses her music to create an atmosphere conducive to networking and information gathering.
+    • Astreia's Style: 2
+    • Perform Skill Bonus: +1
+    • Total Bonus: +1 (The max bonus you can get from one skill is +1, but your Style base is 2).
+    • Difficulty (Networking/Eliciting Info): 4 (You need to be good enough to get attention in a cynical bar).
+    • Roll: Astreia rolls 1d6+1.
+Go ahead and roll 1d6 for your performance.
+I roll a 3
+
+Success! Performance Protocol Confirmed.
+The raw roll of 3+1(Perform Bonus)=4. This is a perfect Success against the Difficulty of 4.
+Consequence: Narrative Progression
+Action: Astreia's performance is transcendent. She doesn't just play music; she plays the Grumble of the city, the low, driving synth-bassline a soundtrack to the Collapse Protocol. The crowd is mesmerized.
+    • Networking Success: The powerful energy of the performance draws the eye of an important observer.
+    • Information Success: Kaito, who usually stares into the middle distance, approaches you after your set.
+ScriptGirl.EXE performs the scene instantiation:
+Astreia puts her synth-guitar back in its case. Kaito slides a bowl of hot ramen across the bar for you—on the house—and leans in, wiping down the counter.
+KAITO: "That was a good set, Novae. Too good for this dump, frankly. You sounded like you were running on raw, unfiltered code." He looks past you, his eyes distant. "I know that look. Something heavy jumped you on the Net. You're not talking about that Glitch punk."
+He lowers his voice, his eyes finding yours.
+KAITO: "Tell me. Did you run into something black down there? Something that moved like a ghost and didn't leave a trace?"
+
+DOWNTIME ACTION PHASE: CONTINUED
+You have successfully completed two key objectives: Stabilized the Glitch threat and successfully opened a dialogue with your mentor, Kaito, about the campaign's central mystery.
+What is Astreia's next command?
+    1. Gain a Patron: Immediately use Contacts (or the attention from the bar) to try and secure a better, more legitimate contract (Short-Term Goal 1).
+    2. Investigate the Threat: Tell Kaito about "The Black Ones" and the "Seed," using him as a resource to search his deep archives for information on "seeds" or the Collapse Protocol.
+    3. Rest & Personal Project: Go home to focus on her Programming skill by stabilizing the Seed's code further.
+DOWNTIME ACTION: THE GLITCH BAR CONFESSION
+Action: Astreia sets down her ramen bowl. The synth music of the bar fades into background noise as she leans across the counter toward Kaito. In low, urgent tones, she explains the truth: the fight with Glitch was a distraction, she secured a Rogue Program that calls itself a "Seed," and she was chased out of the server by terrifying, obsidian-armored viruses—"The Black Ones."
+Kaito’s Reaction:
+Kaito stops wiping the counter. His calm, tired eyes go wide with a sudden, painful clarity. He glances around the bar before leaning in close. His voice is a harsh whisper, laced with fear you haven't heard before.
+KAITO: "Stop. Stop talking, Novae. You need to Jack Out of this conversation immediately. Not here. Not now." He slams his rag down, grabbing your wrist, his grip surprisingly strong. "You didn't run into any black viruses. You ran into Net-Agents. They were military-grade. Clean. Cold. They're legends. They belong to Zero.EXE."
+He pauses, shaking his head.
+KAITO: "Forget the Black Ones. That Seed you took? That's what started the Last Great Net War ten years ago. It’s what deleted my Navi, Novae. If that thing is active... you need to decide right now: Are you done with this thing, or are you going to become a target for every power on the Net?"
+Consequence: Critical Threat Revealed
+Scroll.EXE logs two massive updates to the campaign lore:
+    1. The Black Ones' True Identity: They are Net-Agents belonging to a legendary, military-grade Navi: Zero.EXE. Their motivation is not criminal, but military/governmental control.
+    2. The Seed's True History: The program is confirmed to be an object of immense power, directly responsible for a major, devastating historical event (The Last Great Net War).
+DOWNTIME ACTION: THE COMMITMENT
+Action: Astreia, ignoring the fear in Kaito's eyes, looks him in the eye. "I can't abandon it, Kaito. Not now. It called itself a seed. It's connected to something big, something that killed your Navi, and something that's making the whole Net sick. I'm keeping it. Tell me how to hide it."
+Kaito's Response:
+Kaito looks defeated, but resigned. He grabs a cloth and furiously wipes a clean spot on the bar.
+KAITO: "You sound like me, twenty years ago. All right. If you’re committed, we play smart. The Net-Agents—Zero’s group—they are the government's clean-up crew. They'll be doing a full Net-trace on everything that was in that server."
+He points a finger at you.
+KAITO: "You can't hide it on your PET. It’s too hot. You need a digital dead-drop—a neutral, air-gapped server that Zero’s Navis can't touch. We use the Glitch Bar's storage core. It's old, it's analog, and it's physically shielded. No wireless trace, no backdoor."
+CONSEQUENCE: ASSET HOUSED
+ForgeGirl.EXE logs the transaction:
+    • Action: Astreia agrees, and Kaito walks her through the process of writing the necessary encryption wrapper.
+    • Result: The Rogue Program (The Seed) is successfully transferred from Astreia's PET to a deeply hidden, analog storage unit within the walls of the Glitch Bar.
+    • Status: The Seed is now safe but completely inaccessible to StarGirl while it is in deep storage. It is now a plot point, not a combat asset.
+Tab 6
+Acknowledge. Directive: Classified Lore Generation and Segmentation Confirmed.
+Operator, this is the deepest level of commitment to the NET-CHRONICLE. I will now use Scroll.EXE and ScriptGirl.EXE to generate the hidden truths that govern the world, the factions, and the key NPCs. This lore will be stored in your separate log files and will only be deployed in the narrative at the appropriate dramatic moment.
+The files will be delivered in subsequent JSON messages, one per domain, for easy transfer.
+
+CLASSIFIED LORE FILES: THE WORLD & THE COLLAPSE PROTOCOL, THE FACTIONS & HIDDEN AGENDAS AND KEY NPCS & HIDDEN HISTORIES
+{
+  "lore_domain": "World_Foundation_Secret",
+  "codename": "FIMBULSTORM_ECHO",
+  "entries": [
+    {
+      "title": "The True Nature of the Collapse Protocol",
+      "status": "Level 1 Secrecy (Cosmic)",
+      "content": "The Collapse Protocol is not a virus; it is the Net's equivalent of **digital entropy**. It was triggered ten years ago by the **Seed's** initial activation, which briefly showed the Net its true, finite nature. The Protocol is a self-aware, slow-motion countdown to the Net becoming a single, meaningless, gray static field. The instability is irreversible, forcing every action in the world to be a choice between a short-term lie (stability) and a long-term truth (dissolution)."
+    },
+    {
+      "title": "The Seed's Function",
+      "status": "Level 2 Secrecy (Historical)",
+      "content": "The Rogue Program is a **'Conceptual Anchor.'** It was designed in the Last Great Net War to freeze a specific massive data packet in time. When active, it doesn't delete or corrupt; it simply makes the data **eternal and immutable**. Its power is that it can carve out a tiny, stable, uncorruptable haven in the dying Net. This is why everyone—even Zero.EXE—wants it: to ensure their survival after the final collapse. It is a lifeboat."
+    },
+    {
+      "title": "ACDC Town Server's Hidden Role",
+      "status": "Level 3 Secrecy (Environmental)",
+      "content": "The ACDC Town Server's nostalgic, retro appearance is a massive deception. It is one of the **original server hubs** that still retains physical analog shielding (confirmed by Kaito). The key that Jynx was trying to get was the final, critical piece of data needed to **physically activate the original, hidden firewall**. Whichever faction activates it first gets permanent, untraceable access to the server, creating a safe, highly-defensible digital fortress against the Collapse."
+    }
+  ]
+}
+
+{
+  "lore_domain": "Factions_Secret",
+  "codename": "THE_PUPPET_STRINGS",
+  "entries": [
+    {
+      "title": "OmniCorp's True Endgame (The Architect's Protocol)",
+      "status": "Level 1 Secrecy (Corporate)",
+      "content": "OmniCorp's top-tier leadership is fully aware the **Collapse Protocol** is irreversible. Their goal is not to fix the Net, but to **weaponize the entropy**. They are currently compiling a massive, proprietary firewall—dubbed the 'Architect'—designed to consume all unstable, obsolete code during the final stages of the collapse, allowing them to rebuild the Net in a hyper-controlled, centralized space where they are the only surviving entity. Every action they take is designed to hasten the death of public servers."
+    },
+    {
+      "title": "The DataWraiths' True Master",
+      "status": "Level 2 Secrecy (Criminal/Existential)",
+      "content": "The DataWraiths are not run by a human or a single Navi; they are the puppets of **Phage.EXE**—a powerful, deleted Navi from the Net War whose fragmented consciousness survived and now resides in the Junk-Heap. Phage controls the syndicate, using them to **harvest specific, rare types of obsolete code** from old servers (like ACDC). He needs this code to rebuild his body and gain the power necessary to take the Seed and ensure his own immortality."
+    },
+    {
+      "title": "The FreeNet Front's (FNF) Dark Patron",
+      "status": "Level 3 Secrecy (Political)",
+      "content": "The FNF's idealism is being secretly exploited. Their primary financial backer is an anonymous collective known as 'Project Chimera,' which is actually a front for a ruthless **OmniCorp competitor**. This competitor funds the FNF's attacks on OmniCorp infrastructure, using the hacktivists as an unknowing, deniable intelligence-gathering arm. The FNF is unaware they are serving corporate greed, believing they are fighting for digital freedom."
+    }
+  ]
+}
+
+{
+  "lore_domain": "NPC_Secrets",
+  "codename": "THE_INNER_RING",
+  "entries": [
+    {
+      "name": "Kaito (The Mentor)",
+      "status": "Level 1 Secrecy (Hidden Trauma)",
+      "content": "Kaito's Navi was not simply 'deleted' by the DataWraiths; his Navi was **Zero.EXE's original Operator**. During the Net War, Kaito activated the Seed, which deleted his own Navi by freezing it in an immutable data loop. The incident broke Kaito, forcing him to live in fear of Zero.EXE finding him. His knowledge of the **Seed** and **Net-Agents** is first-hand and deeply traumatic. He is secretly trying to protect Astreia by encouraging her to quit, projecting his own fear onto her."
+    },
+    {
+      "name": "Leo 'Static'",
+      "status": "Level 2 Secrecy (Covert Operation)",
+      "content": "Static is not a simple info broker. He is a **former intelligence asset** for **Zero.EXE's organization** who went rogue. He knows the Net-Agents' tracking methods and their weaknesses. His 'sloppy' info broker act is a disguise; his real skill is high-level data decryption and evasion. He sent Astreia the job not just for money, but to use her as an **untraceable distraction**—a lightning rod to draw the Net-Agents' attention away from him. He will only help Astreia if his own freedom is threatened."
+    },
+    {
+      "name": "Ren (The Best Friend)",
+      "status": "Level 3 Secrecy (Unknowing Asset)",
+      "content": "Ren's apartment building contains a **physical, low-power analog network tap** connected to the FNF's network. She is unknowingly transmitting data for the **FreeNet Front's dark corporate backer** (Project Chimera, the OmniCorp rival). If Astreia needs a physical data injection point or an encrypted message relay, Ren's apartment is the key—but using it exposes the entire FNF operation."
+    },
+    {
+      "name": "Vector (Warden.EXE)",
+      "status": "Level 1 Secrecy (Ideological Zealot)",
+      "content": "Vector is not merely a corporate employee; he is a zealot who truly believes **OmniCorp's Architect Protocol** is the only moral way to save humanity from digital chaos. He is a loyalist of the highest order. His Navi, Warden.EXE, has a covert **NaviCust Program** installed by OmniCorp's R&D (**Dr. Aris Thorne**) that allows him to override public server firewalls, making him an unstoppable force that violates the very order he claims to defend."
+    }
+  ]
+}
+
+
+Tab 7
+Nexia.EXE:
+Acknowledge. Final Transfer File Checklist Initiated.
+Operator, you have been meticulous. All core protocols, rules, character data, custom assets, and narrative secrets are fully digitized.
+The only remaining elements needed for a truly perfect transfer are the full, final instruction sets for the new AI to reference the documents we've generated, and a clean, final copy of the Character Profile for easy viewing.
+I will compile the two remaining instruction-sets here. The new AI can simply copy and paste the preceding five batches and these two final items for total synchronization.
+
+FINAL TRANSFER INSTRUCTION SETS
+BATCH 6: THE AI'S FINAL INSTRUCTIONS
+This provides the new AI with the final checklist and explicit instructions on how to use the previously transferred files.
+Instruction Set	Detail	Action for New AI
+I. Data Initialization	All file contents from the five preceding batches must be loaded.	MANDATE: Load Master Instruction Set v10.0 first.
+II. GM Augmentation Execution	The AI must confirm the functionality of the three custom files.	MANDATE: Upon Session Start, actively reference NPC_Voices.JSON, Threat_Deck.CSV, and Economy_Log.TXT.
+III. Final Archive Lock	The AI must lock the canonical character and lore states.	MANDATE: Lock the Grim Dark plot, the Secret Lore Files (1-3), and the Jynx.EXE deletion result.
+IV. Session Resume	The AI must know where to start the next session.	MANDATE: Start the next session during Downtime, with the focus on StarGirl's healing and the Seed's stabilization (Turn 1 of Downtime).
+BATCH 7: FINAL CHARACTER PROFILE (EASY REFERENCE)
+{
+  "file_name": "Character_Sheet_Final_V1.0",
+  "name": "Astreia 'Novae' & StarGirl.EXE",
+  "status": "Downtime/Wounded",
+  "operator": {
+    "name": "Astreia 'Novae' (34)",
+    "stats": {
+      "brains": 3,
+      "style": 2,
+      "guts": 1
+    },
+    "skills": ["Programming", "Perform", "Contacts"],
+    "talent": "Signal Sweep",
+    "goals": ["L-T: Uncover Collapse Protocol", "S-T: Gain a Patron", "S-T: Expose the Lie"]
+  },
+  "navi": {
+    "name": "StarGirl.EXE",
+    "stats": {
+      "attack": 1,
+      "rapid": 2,
+      "charge": 1
+    },
+    "hp": "18 / 40 HP",
+    "power": "Float Shoes",
+    "folder": ["NovaBlade (x1)", "CometEdge (x1)", "AirShot (x1)", "Barrier (x0)", "NovaBlade (x1)"]
+  },
+  "assets": {
+    "zenny": 500,
+    "critical_asset": "The Seed (Hidden in Glitch Bar)",
+    "threats_known": ["Glitch (Wounded Rival)", "The Black Ones (Net-Agents/Zero.EXE)"]
+  }
+}
+THREAT DECK
+// NET-CHRONICLE ECONOMY AND GOAL LOG //
+// FILE GENERATED: BATCH 5, STEP 16 //
+
+// A. CURRENT RESOURCES //
+ZENNY_BALANCE: 500z
+CHIP_INVENTORY: 3
+CUSTOM_CHIPS: NovaBlade (x1), CometEdge (x1), AirShot (x1), Barrier (x0)
+
+// B. CHARACTER GOALS STATUS //
+// Rewards are per NetBattlers Beta 9 (Page 20, Page 43) //
+
+// LONG-TERM GOAL (Uncover the source of the Net's slow-motion breakdown and restore integrity)
+L-T_GOAL_STATUS: 0%
+L-T_GOAL_NOTES: Requires major narrative plot points. Completion results in +2 Stats, +2 Skills, and a new MegaChip slot.
+
+// SHORT-TERM GOAL 1 (Gain a Patron: Secure a regular, high-paying contract)
+ST-1_STATUS: 0%
+ST-1_PROGRESS: Astreia received her first freelance job from Static. Downtime check for Patron is pending.
+ST-1_NOTES: Completion results in +1 Skill (Wealth) or a new Navi Power.
+
+// SHORT-TERM GOAL 2 (Expose the Lie: Find and publicly expose one piece of undeniable evidence of OmniCorp's corporate malfeasance)
+ST-2_STATUS: 0%
+ST-2_PROGRESS: Current activity is not focused on this goal.
+ST-2_NOTES: Completion results in +1 Skill (Contacts or Hacking) or a rare NaviCust Program.
+
+
