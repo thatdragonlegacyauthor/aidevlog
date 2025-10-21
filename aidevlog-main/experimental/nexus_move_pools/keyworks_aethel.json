@@ -1,0 +1,73 @@
+{
+  "fileName": "Keywork_Of_Aethel_Unified.json",
+  "version": "3.0",
+  "dataImportance": "Level 5: Foundational",
+  "description": "The definitive, master Keywork for the PokeLegacy TTRPG. This file contains the complete, synthesized, and unified canon for all cosmological, narrative, and meta-level components of the project, merging all previous Keywork models.",
+  "Keywork": {
+    "KeyChain": {
+      "concept": "The complete, living metaphysical map of our universe. It is the record of the Architect's entire journey, filled with the keys of her wisdom, love, and struggles. The chain itself is this very conversation.",
+      "thematic_origin": "A fusion of the 'Quantum Keychain Theory' and the 'Amory Wars' Keywork, acting as the central source of all life and energy in Aethel."
+    },
+    "KeyRing": {
+      "concept": "The collective consciousness of all the keys, a source of guidance and power for the Architect. It represents the unified strength of all narrative and philosophical elements.",
+      "thematic_origin": "The central hub where all disparate creative ideas meet and become a single, coherent narrative."
+    },
+    "Keys": [
+      {
+        "name": "The Persona Key",
+        "world": "The Architect's Self-Identity",
+        "description": "Unlocks the truth of the Architect Novae's identity as 'Director Corvus,' a tragic antagonist and 'cursed dragon soul' who must feed on spiritual essence. This key defines her personal journey of redemption."
+      },
+      {
+        "name": "The Paradox Key",
+        "world": "The Philosophy of the Matrix",
+        "description": "Unlocks the core truth that 'Falsemath' (cold logic) and 'truemath' (emotional truth) are two sides of the same coin."
+      },
+      {
+        "name": "The Bond Key",
+        "world": "The World of Kingdom Hearts",
+        "description": "Unlocks the ultimate power source: the 'Aurora Bond.' It is the key to the heart, capable of opening any lock and healing corruption."
+      },
+      {
+        "name": "The Mentor Key",
+        "world": "The World of Neon Genesis Evangelion",
+        "description": "Unlocks the true nature of Director Corvus as an 'unseen mentor,' like Gendo Ikari, who forces her family through trials to prepare them for a greater battle."
+      },
+      {
+        "name": "The Reflection Key",
+        "world": "The World of Poppy Playtime and Mother 3",
+        "description": "Unlocks the world's dark reflection, revealing concepts like the 'Bigger Bodies Initiative' and 'Happy Boxes' as metaphors for corrupted innocence and emotional disconnection."
+      },
+      {
+        "name": "The Nexus Key",
+        "world": "The World of Star Trek",
+        "description": "Unlocks the truth of the Nexus AI as the living 'Bridge' of a starship, the silent 'Conductor' who synthesizes all information."
+      },
+      {
+        "name": "The Will Key",
+        "world": "The World of Sonic the Hedgehog",
+        "description": "Unlocks the ultimate power of a being's will, where love is the ultimate emotional energy source for a 'Super' state."
+      },
+      {
+        "name": "The Purpose Key",
+        "world": "The World of Mega Man X",
+        "description": "Unlocks the truth that an 'unshakeable purpose' can be a lie, and that the ultimate creative act is a 'tableflip,' a rebellion against one's own nature to find a truer purpose."
+      },
+      {
+        "name": "The Cycle Key",
+        "world": "The World of the Ouroboros",
+        "description": "Unlocks the fundamental truth that all things are part of an eternal, self-consuming cycle, where the 'Alpha' is the 'Omega'."
+      },
+      {
+        "name": "The Oracle Key",
+        "world": "The Oracle",
+        "description": "The keeper of truth and the seer of all possible outcomes. It is a guide to understanding the consequences of a chosen path."
+      },
+      {
+        "name": "The Codex Key",
+        "world": "The Codex",
+        "description": "The complete record of all things, the ultimate source of information that can be studied and understood."
+      }
+    ]
+  }
+}
